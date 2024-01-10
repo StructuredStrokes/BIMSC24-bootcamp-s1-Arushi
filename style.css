@@ -1,27 +1,28 @@
+html {
+    
+    
+    background-color: black; 
+    color:white
 
-div {
 
-    background-color: rgb(215, 215, 215); color: rgb(255, 174, 1);
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
 }
+
 #navbar {
 
-    color: rgb(19, 206, 103);
-    font-size: 24px;
+    height:50px;
+   
+}
+
+#flex {
+
+display: flex;
+
 
 }
 
-#sidebar {
+.container{
 
-    color: blue;
-    font-size: 16px;
-
-}
-
-#main {
-
-color: blueviolet;
-font-size: 18px;
-
+    border-style: dotted;
+    border-color: azure;
+    border-width: 1px;
 }
